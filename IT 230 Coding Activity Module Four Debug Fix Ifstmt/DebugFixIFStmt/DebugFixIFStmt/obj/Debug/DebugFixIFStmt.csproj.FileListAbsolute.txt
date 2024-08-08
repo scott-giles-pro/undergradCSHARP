@@ -1,0 +1,12 @@
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week4\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.exe.config
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week4\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.exe
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week4\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.pdb
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week4\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.exe
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week4\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.pdb
+C:\Users\Scott\Documents\School\IT230\Milestone2\IT 230 Coding Activity Module Four Debug Fix Ifstmt\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.exe.config
+C:\Users\Scott\Documents\School\IT230\Milestone2\IT 230 Coding Activity Module Four Debug Fix Ifstmt\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.exe
+C:\Users\Scott\Documents\School\IT230\Milestone2\IT 230 Coding Activity Module Four Debug Fix Ifstmt\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.pdb
+C:\Users\Scott\Documents\School\IT230\Milestone2\IT 230 Coding Activity Module Four Debug Fix Ifstmt\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\School\IT230\Milestone2\IT 230 Coding Activity Module Four Debug Fix Ifstmt\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.csproj.CoreCompileInputs.cache
+C:\Users\Scott\Documents\School\IT230\Milestone2\IT 230 Coding Activity Module Four Debug Fix Ifstmt\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.exe
+C:\Users\Scott\Documents\School\IT230\Milestone2\IT 230 Coding Activity Module Four Debug Fix Ifstmt\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.pdb
